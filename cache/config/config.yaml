@@ -1,9 +1,0 @@
-port: 8080
-
-maxKeys: 1000
-
-cleanupInterval: 1s
-
-autosaveInterval: 30s
-
-dataFile: data/cache.json
